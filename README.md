@@ -1,3 +1,6 @@
+# About
+For better understanding https://medium.com/@im-shubh/deploying-solidity-smart-contracts-using-react-and-etherjs-abc3921f89b8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
